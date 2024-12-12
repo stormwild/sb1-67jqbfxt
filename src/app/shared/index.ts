@@ -1,0 +1,1 @@
+export * from './components/task-card/task-card.component';
